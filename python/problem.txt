@@ -1,3 +1,0 @@
-variables:WA,NT,SA,Q,NSW,V,T
-domain:red,green,blue
-constraints:WA != NT,NT != SA,WA != SA,SA != Q,NT != Q,SA != NSW,SA != V,NSW != V,NSW != Q
